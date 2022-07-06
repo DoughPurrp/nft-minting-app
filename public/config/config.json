@@ -10,7 +10,7 @@
   "SYMBOL": "KRAGNFT",
   "MAX_SUPPLY": 320,
   "WEI_COST": 4000000000000000000,
-  "DISPLAY_COST": 30000,
+  "DISPLAY_COST": 1300,
   "GAS_LIMIT": 285000,
   "MARKETPLACE": "Opeansea",
   "MARKETPLACE_LINK": "https://opensea.io/collection/the-stripes-nft",
